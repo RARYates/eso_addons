@@ -1,0 +1,6 @@
+## Title: HarvestMap-NoFaction-Zones
+## Author: Shinni
+## DependsOn: HarvestMap
+## AddOnVersion: 1
+## APIVersion: 100021 100022
+## SavedVariables: HarvestNF_SavedVars
